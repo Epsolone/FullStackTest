@@ -9,6 +9,9 @@
 - run command: `npm install`
 - run command: `npm run serve`
 
+# Consuming API
+- Base URL: `http://localhost:5000/api`
+
 # Create transaction
 - Description: Endpoint add transaction to the account
 - URL: `/transaction`
